@@ -1,5 +1,4 @@
-﻿using Mango.Services.CouponAPI.Dto;
-using Mango.Web.Models;
+﻿using Mango.Web.Models;
 using Microsoft.AspNetCore.SignalR;
 
 namespace Mango.Web.Services.IService

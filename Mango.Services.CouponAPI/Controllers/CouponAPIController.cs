@@ -8,8 +8,8 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Mango.Services.CouponAPI.Controllers
 {
-    [Route("api/[controller]")]
     [ApiController]
+    [Route("api/coupon")]
     public class CouponAPIController : ControllerBase
     {
         private readonly AppDBContext _db;
